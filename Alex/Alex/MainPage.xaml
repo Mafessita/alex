@@ -34,6 +34,7 @@
             <Button
                 x:Name="Maria"
                 HorizontalOptions="Fill" />
+            <Label Text="Cambio hecho por Camilo"></Label>
         </VerticalStackLayout>
     </ScrollView>
 
