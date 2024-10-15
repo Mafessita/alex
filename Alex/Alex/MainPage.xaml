@@ -35,6 +35,7 @@
                 x:Name="Maria"
                 HorizontalOptions="Fill" />
             <Label Text="Cambio hecho por Camilo"></Label>
+            <Label Text="CAMBIO 2 ROGER EL MAS CAPITO"></Label>
         </VerticalStackLayout>
     </ScrollView>
 
