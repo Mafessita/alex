@@ -35,6 +35,8 @@
                 x:Name="Maria"
                 HorizontalOptions="Fill" />
             <Label Text="Cambio hecho por Camilo"></Label>
+
+            <Label Text="Cambios al main"/>
         </VerticalStackLayout>
     </ScrollView>
 
